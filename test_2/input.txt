@@ -1,0 +1,6 @@
+Rectangle 10 10 100 100 purple
+Rectangle 10 10 30 30 darkblue
+Triangle 10 10 30 30 60 40 red
+Triangle 40 30 0 0 100 100 blue
+Circle 0 0 50 green
+Circle 0 0 10 orange

@@ -1,0 +1,14 @@
+SIZE = 6
+Rectangle: TopLeft(10;10), BottomRight(100;100) Area=8100 purple
+Rectangle: TopLeft(10;10), BottomRight(30;30) Area=400 darkblue
+Triangle: First(10;10), Second(30;30), Third(60;40), Area=200 red
+Triangle: First(40;30), Second(0;0), Third(100;100), Area=500 blue
+Circle: centre(0;0), radius= 50, Area=7853.98 green
+Circle: centre(0;0), radius= 10, Area=314.159 orange
+SIZE = 6
+Triangle: First(10;10), Second(30;30), Third(60;40), Area=200 red
+Circle: centre(0;0), radius= 10, Area=314.159 orange
+Rectangle: TopLeft(10;10), BottomRight(30;30) Area=400 darkblue
+Triangle: First(40;30), Second(0;0), Third(100;100), Area=500 blue
+Circle: centre(0;0), radius= 50, Area=7853.98 green
+Rectangle: TopLeft(10;10), BottomRight(100;100) Area=8100 purple

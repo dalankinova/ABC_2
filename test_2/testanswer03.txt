@@ -1,0 +1,21 @@
+===================Before sorting=======================
+8 elements in Container contains
+1: Type Figure: Circle (12,12); 8 ; Green
+2: Type Figure: Circle (985,452); 50 ; Red
+3: Type Figure: Rectangle (-500,250); (12,108); Green
+4: Type Figure: Triangle (-500,250);(12, 108); (-500, 108); Orange
+5: Type Figure: Rectangle (0,0); (50,-50); Orange
+6: Type Figure: Triangle (0,0);(50, -50); (2, -55); Green
+7: Type Figure: Circle (-8,28); 5 ; Red
+8: Type Figure: Circle (15,-15); 12 ; Red
+
+==================After sorting===========================
+8 elements in Container contains
+1: Type Figure: Triangle (-500,250);(12, 108); (-500, 108); Orange
+2: Type Figure: Rectangle (-500,250); (12,108); Green
+3: Type Figure: Circle (985,452); 50 ; Red
+4: Type Figure: Rectangle (0,0); (50,-50); Orange
+5: Type Figure: Triangle (0,0);(50, -50); (2, -55); Green
+6: Type Figure: Circle (15,-15); 12 ; Red
+7: Type Figure: Circle (12,12); 8 ; Green
+8: Type Figure: Circle (-8,28); 5 ; Red

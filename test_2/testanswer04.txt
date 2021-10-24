@@ -1,0 +1,19 @@
+===================Before sorting=======================
+7 elements in Container contains
+1: Type Figure: Rectangle (-800,85); (285,-858); Green
+2: Type Figure: Rectangle (0,1); (450,-10); Red
+3: Type Figure: Triangle (-8,2);(18, -5); (-10, -6); Green
+4: Type Figure: Circle (999,-999); 85 ; Violet
+5: Type Figure: Circle (-55,-55); 1 ; Blue
+6: Type Figure: Rectangle (-989,-500); (989,-800); Yellow
+7: Type Figure: Triangle (-970,-450);(950, 800); (955, -448); Green
+
+==================After sorting===========================
+7 elements in Container contains
+1: Type Figure: Triangle (-970,-450);(950, 800); (955, -448); Green
+2: Type Figure: Rectangle (-800,85); (285,-858); Green
+3: Type Figure: Rectangle (-989,-500); (989,-800); Yellow
+4: Type Figure: Circle (999,-999); 85 ; Violet
+5: Type Figure: Triangle (-8,2);(18, -5); (-10, -6); Green
+6: Type Figure: Rectangle (0,1); (450,-10); Red
+7: Type Figure: Circle (-55,-55); 1 ; Blue
